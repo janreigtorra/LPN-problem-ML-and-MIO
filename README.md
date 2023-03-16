@@ -1,4 +1,4 @@
-# LPN-problem-ML-and-MIO-
+# Solving the Learning Parity with Noise Problem using ML and MIO
 
 Ideated a new Mix-Integer Optimization formulation and implemented tree-based methods to solve the Learning Parity with Noise problem.
 
